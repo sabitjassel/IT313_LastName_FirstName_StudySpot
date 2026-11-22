@@ -111,7 +111,7 @@ StudySpot uses React state to manage user information, favorites, and bookings w
 
 ## 11. Author Information
 
-**Name:** [Your Full Name]  
+**Name:** Jassel Raica A. Sabit 
 **Course:** IT 313  
 **Project:** Performance Task – Modules 6–9  
 **Application:** StudySpot
